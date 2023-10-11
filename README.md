@@ -1,6 +1,3 @@
-Tabii ki, aşağıda detaylı bir README dosyası örneği bulunmaktadır:
-
-```markdown
 # Breast Cancer Classification with Decision Trees
 
 This project focuses on breast cancer classification using decision tree algorithms. It provides a practical approach to machine learning and showcases how you can achieve an accuracy rate of 90.6% in breast cancer classification. This project is designed to be informative and engaging for machine learning enthusiasts.
@@ -9,14 +6,14 @@ This project focuses on breast cancer classification using decision tree algorit
 
 ## Table of Contents
 
-- [About the Project](#about-the-project)
-- [Data Description](#data-description)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- [About the Project](##about-the-project)
+- [Data Description](##data-description)
+- [Installation](##installation)
+- [Usage](##usage)
+- [Results](##results)
+- [Contributing](##contributing)
+- [License](##license)
+- [Contact](##contact)
 
 ## About the Project
 
@@ -51,7 +48,8 @@ The Jupyter Notebook provides a step-by-step guide for implementing the decision
 
 Our decision tree model achieved an accuracy rate of 90.6% in classifying breast cancer tumors. You can explore the model's performance in the Jupyter Notebook and see how different features impact the classification.
 
-[Ekran görüntüsü 2023-10-11 211110](https://github.com/Prometheussx/Cancer-Detection-AI/assets/54312783/9e6eff48-7156-47b5-a88b-dc2fc685a42c)
+![Ekran görüntüsü 2023-10-11 211110](https://github.com/Prometheussx/Cancer-Detection-AI/assets/54312783/46403b04-53a8-44e3-a4f8-3f17a33ff80b)
+
 
 ## Contributing
 
@@ -71,4 +69,8 @@ If you have any questions or feedback, please don't hesitate to reach out:
 - LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/erdem-taha-sokullu/)
 - GitHub: [My GitHub Profile](https://github.com/Prometheussx)
 
-Happy coding!
+## Data Link:
+You can review, access, and utilize the data I've used in this project by following this link, and you are welcome to use it in your own projects.
+[Data Link](https://www.kaggle.com/datasets/erdemtaha/cancer-data) 
+
+### Happy coding! 🚀🚀
