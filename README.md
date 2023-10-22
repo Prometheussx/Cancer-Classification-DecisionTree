@@ -27,7 +27,7 @@ We use the Breast Cancer Wisconsin (Diagnostic) Data Set from the UCI Machine Le
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/breast-cancer-classification.git
+   git clone https://github.com/Prometheussx/breast-cancer-classification.git
    ```
 
 2. Install the required libraries:
