@@ -6,14 +6,14 @@ This project focuses on breast cancer classification using decision tree algorit
 
 ## Table of Contents
 
-- [About the Project](##about-the-project)
-- [Data Description](##data-description)
-- [Installation](##installation)
-- [Usage](##usage)
-- [Results](##results)
-- [Contributing](##contributing)
-- [License](##license)
-- [Contact](##contact)
+- [About the Project](##About-the-Project)
+- [Data Description](##Data-Description)
+- [Installation](##Installation)
+- [Usage](##Usage)
+- [Results](##Results)
+- [Contributing](##Contributing)
+- [License](##License)
+- [Contact](##Contact)
 
 ## About the Project
 
@@ -57,7 +57,7 @@ We welcome contributions from the community. If you have any ideas, suggestions,
 
 If you have any questions or feedback, don't hesitate to reach out. You can also open issues in the [ISSUES](https://github.com/Prometheussx/Decision-Tree-Regression/issues) section for any project-related problems or suggestions.
 
-## License!
+## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
